@@ -4,6 +4,7 @@ using System.Linq;
 using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Forms;
 
 namespace NewOrder_App_1
 {
@@ -22,7 +23,16 @@ namespace NewOrder_App_1
             // AbstractTrain();
 
             // are you a man or a woman?
-             GuessYourSex.AreYouAManOrAWoman2();
+            // GuessYourSex.AreYouAManOrAWoman2();
+
+            // message dialog box
+            // Console.WriteLine("Hello world!");
+            // MessageBox.Show("No siema siema");
+
+            // get system info
+            // SystemInfoMyClass.PrintAllInfo();
+
+            Console.ReadKey();
         }
 
        
